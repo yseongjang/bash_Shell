@@ -7,10 +7,17 @@
 -   home-Diectory : /var/home/user001~100
 
 ```bash
+vim /user.sh
+```
+```bash
 #/bin/bash
 mkdir /var/home
 for a in {001..100}
 do
     echo -e 'Skill39\nSkill39' | adduser --gecos "" --uid 1$a  --gid 65534 --home var/home/user$a user$a 
 done
+```
+```bash
+chmod 777 /user.sh
+/user.sh
 ```
