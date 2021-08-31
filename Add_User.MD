@@ -1,4 +1,4 @@
-#### Add_User in /bin/bash shell
+#### Add_User in /bin/bash Shell
 
 ##### 전제: user001~user100의 유저를 만들고 로그인할 수 있게 구성한다. 나머지 값은 아래를 참조
 -   User: user001~user100
