@@ -17,6 +17,7 @@ do
     echo -e 'Skill39\nSkill39' | adduser --gecos "" --uid 1$a  --gid 65534 --home var/home/user$a user$a 
 done
 ```
+이후 Permition을 주고 실행한다.
 ```bash
 chmod 777 /user.sh
 /user.sh
