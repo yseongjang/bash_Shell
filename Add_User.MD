@@ -31,4 +31,4 @@ chmod 777 /user.sh
 -   ``--uid 1$a`` : 유저의 uid를  for문으로 계속 실행하기 때문에 해당 유저의 uid가 들어감
 -   ``--gid 65534`` : nogroup의 gid가 65534 임
 -   ``--home /var/home/user$a`` : user의 홈디렉토리 지정
--   ``user$a`` = 유저의 이름 지정
+-   ``user$a`` : 유저의 이름 지정
