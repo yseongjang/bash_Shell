@@ -2,6 +2,7 @@
 
 ##### 전제: user001~user100의 유저를 만들고 로그인할 수 있게 구성한다. 나머지 값은 아래를 참조
 -   User: user001~user100
+-   Password: Skill39
 -   uid : 1001~1100
 -   gid : nogroup(65534)
 -   home-Diectory : /var/home/user001~100
