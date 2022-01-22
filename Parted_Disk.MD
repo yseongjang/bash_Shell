@@ -18,7 +18,7 @@ do
         parted --script /dev/sd$a "unit gb"
 done
 ```
-이후 Permison을 주고 실행한다.
+이후 Permisson을 주고 실행한다.
 ```bash
 chmod 777 /part.sh
 /part.sh
